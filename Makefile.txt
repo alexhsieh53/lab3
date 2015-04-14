@@ -1,0 +1,4 @@
+main: LAB3.cpp
+	g++ LAB3.cpp
+clean:
+	rm a *.out
