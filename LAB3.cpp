@@ -14,7 +14,7 @@
    
  
  int insert, moveItem;
- ifstream inFile("infile.txt", ios::in);
+ ifstream inFile("file.in", ios::in);
  
  
 
